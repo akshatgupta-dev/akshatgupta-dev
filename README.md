@@ -84,9 +84,9 @@
 ---
 
 ## 🌍 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/akshatgupta)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/akshatgupta01)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5733?logo=about-dot-me&logoColor=white&style=flat-square)](https://akshatgupta.com)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:akshatgupta@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:gupta.akshat2005@gmail.com.com)
 
 ---
 
