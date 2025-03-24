@@ -24,5 +24,5 @@
 Bachelor's in AI & Robotics @ SAMK (Satakunta University of Applied Sciences)
 
 ### 🔗 Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your-email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/akshatgupta01/)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:gupta.akshat2005@gmail.com)
