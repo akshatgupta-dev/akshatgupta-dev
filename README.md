@@ -1,8 +1,8 @@
 # Akshat Gupta | AI & Data Engineer  
 
 ### 🏆 Awards & Honors  
-- **🥇 1st Place**: BIP Coffee Machine Hacking (AI optimization) (PXL & SAMK)
-- **🥉 3rd Place**: Acroba Robotics Hackathon (Pick/Regrasp/Assembly simulation)  (ACROBA)
+- **🥇 1st Place**: BIP Coffee Machine Hacking (AI optimization) (PXL & SAMK, 2023)
+- **🥉 3rd Place**: Acroba Robotics Hackathon (Pick/Regrasp/Assembly simulation)  (ACROBA, 2024)
 
 ### 🔬 Projects  
 **AI Pathogen Detector** (FastAPI, PyTorch, ResNet-18)  
