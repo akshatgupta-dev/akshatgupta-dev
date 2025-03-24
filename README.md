@@ -7,7 +7,7 @@
 ### 🔬 Projects  
 **AI Pathogen Detector** (FastAPI, PyTorch, ResNet-18)  
 - Web app predicts bacterial type/antibiotic resistance from images  
-- **[GitHub](https://github.com/akshatgupta-dev/pathogen-detector)**  
+- **[GitHub](https://github.com/akshatgupta-dev/Pathogen_Detection_AI)**  
 
 **Lyrics Generator** (LSTM, TensorFlow, CNN)  
 - AI model generates lyrics in styles of The Weeknd/Eminem  
