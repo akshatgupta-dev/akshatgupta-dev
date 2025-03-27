@@ -53,4 +53,4 @@
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshat_Gupta-0A66C2?logo=linkedin)](https://www.linkedin.com/in/akshatgupta01/)  
 [![Email](https://img.shields.io/badge/Email-akshat@dev-EA4335?logo=gmail)](mailto:gupta.akshat2005@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-FF7139?logo=firefox)](your-portfolio)(to be updated)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-FF7139?logo=firefox)](https://akshatgupta-dev.github.io/My-Portfolio-Website/)
