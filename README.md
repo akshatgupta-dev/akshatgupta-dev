@@ -1,6 +1,6 @@
 # Akshat Gupta - AI & Data Engineer  
 ## Introduction
-Hey! I’m Akshat, 20 years old and currently calling Helsinki, Finland home. I work in AI and data engineering, which basically means I love building cool tech—whether that’s training neural networks, designing projects for hackathons, or just messing around with robotics and data tools. Outside of work, I’m big on coffee, late-night code sessions, and exploring this (sometimes chilly) city. If you’re into tech, new ideas, or just want to chat about anything from AI to life in Helsinki, let’s connect and check out my [Personal Portfolio](https://akshatgupta-dev.github.io/myportfolio/) !
+Hey! I’m Akshat, 20 years old and currently calling Helsinki, Finland home. I work in AI and data engineering, which basically means I love building cool tech, whether that’s training neural networks, designing projects for hackathons, or just messing around with robotics and data tools. Outside of work, I’m big on coffee, late night code sessions, and exploring this (sometimes chilly) city. If you’re into tech, new ideas, or just want to chat about anything from AI to life in Helsinki, let’s connect and check out my [Personal Portfolio](https://akshatgupta-dev.github.io/myportfolio/) !
 ### 🏆 Awards & Honors  
 - **🥇 1st Place**: BIP Coffee Machine Hacking (AI optimization) (PXL & SAMK, 2023)
 - **🥉 3rd Place**: Acroba Robotics Hackathon (Pick/Regrasp/Assembly simulation)  (ACROBA, 2024)
